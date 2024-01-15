@@ -1,0 +1,8 @@
+.env
+env/
+llama-2-7b-chat.ggmlv3.q4_0.bin
+README.md
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
